@@ -315,6 +315,7 @@ My engineering principles:
 - ✅ Continuous Improvement
 
 ---
+
 ---
 ## 🤝 Let's Connect
 
@@ -335,6 +336,37 @@ My engineering principles:
 </p>
 
 ---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahbejam&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+💼 Building AI-powered software for real-world industries
+</p>
+
+<p align="center">
+🚀 Enterprise Applications • AI • Digital Transformation • Pharma Tech
+</p>
+
+<p align="center">
+<a href="https://github.com/mahbejam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>Thanks for visiting my profile.</i><br>
+<i>Let's build software that makes a difference.</i> ✨
+</p>
 
 <p align="center">
 <i>Thanks for visiting my profile.</i><br>
