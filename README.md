@@ -85,9 +85,8 @@ Today, my focus is designing intelligent software that simplifies complex proces
 <td width="50%">
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0F6CBD,100:00B4D8&text=PharmaPilot%20AI&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/🧬%20PharmaPilot%20AI-AI%20Copilot%20for%20Pharma-0078D4?style=for-the-badge&labelColor=005A9E&color=00A6ED" />
 </p>
-### 🧬 PharmaPilot AI
 
 <p>
 
@@ -101,7 +100,7 @@ Today, my focus is designing intelligent software that simplifies complex proces
 
 </p>
 
-AI copilot for pharmaceutical visual inspection and GMP-oriented manufacturing workflows.
+**AI copilot for pharmaceutical visual inspection and GMP-oriented manufacturing workflows.**
 
 Designed to support operators and quality teams with guided batch inspections, quantity reconciliation, deviation understanding, and structured documentation support.
 
@@ -114,13 +113,11 @@ Key areas
 - AI-assisted decision-making
 
 </td>
-
 <td width="50%">
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F9A826,100:FDD835&text=SOUR%20LEMON%20Suite&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/🍋%20SOUR%20LEMON%20Suite-Business%20AI%20Platform-FFC107?style=for-the-badge&labelColor=F57F17&color=FFD54F" />
 </p>
-### 🍋 SOUR LEMON Suite
 
 <p>
 
@@ -134,7 +131,7 @@ Key areas
 
 </p>
 
-AI-powered business ecosystem for knowledge, intelligence, planning, and productivity.
+**AI-powered business ecosystem for knowledge, intelligence, planning, and productivity.**
 
 Built around the idea of making organizational knowledge easier to find, understand, and use in real business contexts.
 
@@ -153,9 +150,8 @@ Key areas
 <td width="50%">
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:546E7A,100:90A4AE&text=IT%20Setup%20Console&fontColor=ffffff&fontSize=30"/>
+<img src="https://img.shields.io/badge/🛠️%20IT%20Setup%20Console-Developer%20Onboarding-607D8B?style=for-the-badge&labelColor=455A64&color=90A4AE" />
 </p>
-### 🛠️ IT Setup Console
 
 <p>
 
@@ -169,7 +165,7 @@ Key areas
 
 </p>
 
-Guided onboarding assistant for development environments.
+**Guided onboarding assistant for development environments.**
 
 Helps teams prepare working setups through structured installation guidance, validation steps, and clear technical documentation.
 
@@ -186,9 +182,8 @@ Key areas
 <td width="50%">
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:7E57C2,100:AB47BC&text=Solace&fontColor=ffffff&fontSize=34"/>
+<img src="https://img.shields.io/badge/🌿%20Solace-Calm%20Digital%20Experience-9C27B0?style=for-the-badge&labelColor=6A1B9A&color=BA68C8" />
 </p>
-### 🌿 Solace
 
 <p>
 
@@ -200,7 +195,7 @@ Key areas
 
 </p>
 
-Calm wellbeing web app focused on intentional digital experiences.
+**Calm wellbeing web app focused on intentional digital experiences.**
 
 Designed as a minimalist application that encourages small daily moments of reflection instead of overwhelming users with noise.
 
