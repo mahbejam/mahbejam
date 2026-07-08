@@ -1,6 +1,16 @@
-# Hi, I'm Mahbube Bejam
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Mahbube%20Bejam&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Solutions%20Builder%20%7C%20Regulated%20Industries&descAlignY=58&animation=fadeIn" />
+</p>
 
-### Software Engineer • AI Solutions Builder • Digital Transformation for Regulated Industries
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1200&color=0F4C81&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Solutions+Builder;Full-Stack+Developer;Building+AI+for+Regulated+Industries" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,nestjs,docker,git,postgres,mysql,vscode,visualstudio&perline=12" />
+</p>
+
+# Hi, I'm Mahbube Bejam
 
 I build software where engineering meets real industrial operations.
 
@@ -11,114 +21,202 @@ Working directly alongside production and quality teams has given me a practical
 Today, my focus is designing intelligent software that simplifies complex processes, supports decision-making, and helps organizations adopt AI in practical, human-centered ways.
 
 ---
+<h2 align="center">📊 GitHub Analytics</h2>
 
-## Core Expertise
+---
 
-- AI-powered Applications
-- Software Engineering
-- Full-Stack Development
+<div align="center">
+
+### 💡 Engineering Mindset
+
+*"Great software is not measured by how much code it contains, but by how many real problems it solves."*
+
+</div>
+
+---
+
+## 🚀 Core Expertise
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 🤖 AI Engineering
+
 - AI Copilots
-- Pharmaceutical Digitalization
-- GMP Process Software
-- IT Project Coordination
-- Enterprise Applications
-- Process Optimization
-- Digital Transformation
+- LLM Integration
+- Prompt Engineering
+- Intelligent Automation
+
+</td>
+
+<td width="33%">
+
+### 💻 Software
+
+- .NET & C#
+- Angular
+- TypeScript
+- REST APIs
+
+</td>
+
+<td width="33%">
+
+### 🏭 Industry
+
+- GMP Processes
+- Pharma Digitalization
+- Manufacturing Software
+- Quality Systems
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## ✨ Featured Projects
 
-### Languages  
-C# • TypeScript • JavaScript • SQL • PHP
+<table>
+<tr>
+<td width="50%">
 
-### Frontend  
-Angular • Angular Material • HTML • CSS • SCSS
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0F6CBD,100:00B4D8&text=PharmaPilot%20AI&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
+</p>
+### 🧬 PharmaPilot AI
 
-### Backend  
-.NET • ASP.NET Core • NestJS • REST APIs
+<p>
 
-### AI  
-LLM Integration • Prompt Engineering • AI Copilots • Retrieval-Augmented Generation (RAG)
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
 
-### Databases  
-SQL Server • PostgreSQL • MySQL
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
 
-### Tools  
-Docker • Git • Visual Studio • VS Code • Postman
+<img src="https://img.shields.io/badge/AI-Copilot-6C63FF?style=flat-square">
 
----
+<img src="https://img.shields.io/badge/GMP-009688?style=flat-square">
 
-## Featured Projects
+</p>
 
-### PharmaPilot AI
+AI copilot for pharmaceutical visual inspection and GMP-oriented manufacturing workflows.
 
-An AI-assisted copilot for pharmaceutical visual inspection and regulated manufacturing.
+Designed to support operators and quality teams with guided batch inspections, quantity reconciliation, deviation understanding, and structured documentation support.
 
-PharmaPilot AI is designed around real production workflows, helping operators and quality teams work through guided batch inspections, quantity reconciliation, deviation understanding, and structured documentation support.
+Key areas
 
-The goal is not to replace professional judgment, but to support faster, clearer, and more reliable decision-making in GMP-oriented environments.
+- Visual inspection workflows
+- Batch reconciliation
+- Deviation analysis
+- GMP process support
+- AI-assisted decision-making
 
-Focus areas:
+</td>
 
-- Guided visual inspection workflows
-- Batch and quantity reconciliation
-- Deviation explanation in plain language
-- AI-assisted decision support
-- Digital manufacturing support
-- GMP-oriented process thinking
+<td width="50%">
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:F9A826,100:FDD835&text=SOUR%20LEMON%20Suite&fontColor=ffffff&fontSize=34&animation=fadeIn"/>
+</p>
+### 🍋 SOUR LEMON Suite
 
-### SOUR LEMON Suite
+<p>
 
-SOUR LEMON is a growing ecosystem of AI-powered business applications focused on making organizational knowledge easier to find, understand, and use.
+<img src="https://img.shields.io/badge/Knowledge-AI-3F51B5?style=flat-square">
 
-The suite explores practical AI use cases for enterprise knowledge management, market intelligence, planning, research, route optimization, and business productivity.
+<img src="https://img.shields.io/badge/Enterprise-607D8B?style=flat-square">
 
-Focus areas:
+<img src="https://img.shields.io/badge/Productivity-43A047?style=flat-square">
 
-- Enterprise knowledge management
-- AI-powered research
+<img src="https://img.shields.io/badge/Planning-FF9800?style=flat-square">
+
+</p>
+
+AI-powered business ecosystem for knowledge, intelligence, planning, and productivity.
+
+Built around the idea of making organizational knowledge easier to find, understand, and use in real business contexts.
+
+Key areas
+
+- Enterprise knowledge platform
 - Market intelligence
-- Route and planning support
-- Business productivity tools
-- Human-centered AI applications
+- AI route planning
+- Business research
+- Productivity tools
 
----
+</td>
+</tr>
 
-### IT Setup Console
+<tr>
+<td width="50%">
 
-IT Setup Console is a guided onboarding assistant for development environments.
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:546E7A,100:90A4AE&text=IT%20Setup%20Console&fontColor=ffffff&fontSize=30"/>
+</p>
+### 🛠️ IT Setup Console
 
-It helps developers and teams prepare complete working setups through structured instructions, validation steps, and clear documentation.
+<p>
 
-The goal is to reduce setup time, avoid configuration mistakes, and make technical onboarding smoother and more reliable.
+<img src="https://img.shields.io/badge/Knowledge-AI-3F51B5?style=flat-square">
 
-Focus areas:
+<img src="https://img.shields.io/badge/Enterprise-607D8B?style=flat-square">
+
+<img src="https://img.shields.io/badge/Productivity-43A047?style=flat-square">
+
+<img src="https://img.shields.io/badge/Planning-FF9800?style=flat-square">
+
+</p>
+
+Guided onboarding assistant for development environments.
+
+Helps teams prepare working setups through structured installation guidance, validation steps, and clear technical documentation.
+
+Key areas
 
 - Developer onboarding
 - Environment setup
 - Installation guidance
 - Configuration validation
 - Technical documentation
-- Process standardization
 
----
+</td>
 
-### Solace
+<td width="50%">
 
-Solace is a calm, minimalist wellbeing application designed around intentional digital experiences instead of endless notifications.
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:7E57C2,100:AB47BC&text=Solace&fontColor=ffffff&fontSize=34"/>
+</p>
+### 🌿 Solace
 
-The app encourages small moments of reflection through a clean interface that adapts naturally throughout the day.
+<p>
 
-Focus areas:
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square">
 
-- Minimalist user experience
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+
+<img src="https://img.shields.io/badge/Developer-Onboarding-607D8B?style=flat-square">
+
+</p>
+
+Calm wellbeing web app focused on intentional digital experiences.
+
+Designed as a minimalist application that encourages small daily moments of reflection instead of overwhelming users with noise.
+
+Key areas
+
+- Minimalist UX
 - Daily reflection
 - Calm digital design
 - Time-of-day awareness
 - Human-centered interaction
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
