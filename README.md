@@ -77,34 +77,28 @@ Today, my focus is designing intelligent software that simplifies complex proces
 </table>
 
 ---
-
 ## ✨ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-<p align="center">
-<img src="https://img.shields.io/badge/🧬%20PharmaPilot%20AI-AI%20Copilot%20for%20Pharma-0078D4?style=for-the-badge&labelColor=005A9E&color=00A6ED" />
-</p>
+<img src="https://img.shields.io/badge/🧪%20PHARMAPILOT%20AI-AI%20COPILOT%20FOR%20PHARMA-0078D4?style=for-the-badge&labelColor=005A9E&color=00A6ED" />
 
-<p>
+<br><br>
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-6F42C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/GMP-009688?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+<br><br>
 
-<img src="https://img.shields.io/badge/AI-Copilot-6C63FF?style=flat-square">
-
-<img src="https://img.shields.io/badge/GMP-009688?style=flat-square">
-
-</p>
-
-**AI copilot for pharmaceutical visual inspection and GMP-oriented manufacturing workflows.**
+AI copilot for pharmaceutical visual inspection and GMP-oriented manufacturing workflows.
 
 Designed to support operators and quality teams with guided batch inspections, quantity reconciliation, deviation understanding, and structured documentation support.
 
-Key areas
+Key Areas
 
 - Visual inspection workflows
 - Batch reconciliation
@@ -113,29 +107,25 @@ Key areas
 - AI-assisted decision-making
 
 </td>
+
 <td width="50%">
 
-<p align="center">
-<img src="https://img.shields.io/badge/🍋%20SOUR%20LEMON%20Suite-Business%20AI%20Platform-FFC107?style=for-the-badge&labelColor=F57F17&color=FFD54F" />
-</p>
+<img src="https://img.shields.io/badge/🍋%20SOUR%20LEMON%20SUITE-BUSINESS%20AI%20PLATFORM-F9A826?style=for-the-badge&labelColor=E18C00&color=FFD54F" />
 
-<p>
+<br><br>
 
-<img src="https://img.shields.io/badge/Knowledge-AI-3F51B5?style=flat-square">
+<img src="https://img.shields.io/badge/Knowledge_AI-3F51B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Enterprise-607D8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Productivity-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Planning-FF9800?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Enterprise-607D8B?style=flat-square">
+<br><br>
 
-<img src="https://img.shields.io/badge/Productivity-43A047?style=flat-square">
-
-<img src="https://img.shields.io/badge/Planning-FF9800?style=flat-square">
-
-</p>
-
-**AI-powered business ecosystem for knowledge, intelligence, planning, and productivity.**
+AI-powered business ecosystem for knowledge, intelligence, planning, and productivity.
 
 Built around the idea of making organizational knowledge easier to find, understand, and use in real business contexts.
 
-Key areas
+Key Areas
 
 - Enterprise knowledge platform
 - Market intelligence
@@ -149,27 +139,22 @@ Key areas
 <tr>
 <td width="50%">
 
-<p align="center">
-<img src="https://img.shields.io/badge/🛠️%20IT%20Setup%20Console-Developer%20Onboarding-607D8B?style=for-the-badge&labelColor=455A64&color=90A4AE" />
-</p>
+<img src="https://img.shields.io/badge/🛠️%20IT%20SETUP%20CONSOLE-DEVELOPER%20ONBOARDING-607D8B?style=for-the-badge&labelColor=455A64&color=90A4AE" />
 
-<p>
+<br><br>
 
-<img src="https://img.shields.io/badge/Knowledge-AI-3F51B5?style=flat-square">
+<img src="https://img.shields.io/badge/Onboarding-607D8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docs-455A64?style=flat-square"/>
+<img src="https://img.shields.io/badge/Setup-78909C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Validation-546E7A?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Enterprise-607D8B?style=flat-square">
+<br><br>
 
-<img src="https://img.shields.io/badge/Productivity-43A047?style=flat-square">
-
-<img src="https://img.shields.io/badge/Planning-FF9800?style=flat-square">
-
-</p>
-
-**Guided onboarding assistant for development environments.**
+Guided onboarding assistant for development environments.
 
 Helps teams prepare working setups through structured installation guidance, validation steps, and clear technical documentation.
 
-Key areas
+Key Areas
 
 - Developer onboarding
 - Environment setup
@@ -181,25 +166,22 @@ Key areas
 
 <td width="50%">
 
-<p align="center">
-<img src="https://img.shields.io/badge/🌿%20Solace-Calm%20Digital%20Experience-9C27B0?style=for-the-badge&labelColor=6A1B9A&color=BA68C8" />
-</p>
+<img src="https://img.shields.io/badge/🌿%20SOLACE-CALM%20DIGITAL%20EXPERIENCE-9C27B0?style=for-the-badge&labelColor=6A1B9A&color=BA68C8" />
 
-<p>
+<br><br>
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square">
+<img src="https://img.shields.io/badge/UI-9C27B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wellbeing-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Minimal-7E57C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Human_Centered-03A9F4?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<br><br>
 
-<img src="https://img.shields.io/badge/Developer-Onboarding-607D8B?style=flat-square">
-
-</p>
-
-**Calm wellbeing web app focused on intentional digital experiences.**
+Calm wellbeing web app focused on intentional digital experiences.
 
 Designed as a minimalist application that encourages small daily moments of reflection instead of overwhelming users with noise.
 
-Key areas
+Key Areas
 
 - Minimalist UX
 - Daily reflection
@@ -211,61 +193,150 @@ Key areas
 </tr>
 </table>
 
----
+<p align="center">
+  <sub>
+    Each project is designed as a practical portfolio case study, combining software engineering, process understanding, and applied AI.
+  </sub>
+</p>
 
 ---
+## 🚀 Professional Journey
 
-## How I Work
+<table>
+<tr>
+<td width="20%"><b>2004 – 2007</b></td>
+<td width="80%">🎓 <b>B.Sc. Software Engineering</b></td>
+</tr>
 
-I believe great software starts with understanding people before writing code.
+<tr>
+<td><b>2010 – 2018</b></td>
+<td>💻 <b>Software Engineer</b><br>Enterprise Software Development</td>
+</tr>
 
-The best solutions are created by listening to users, understanding business processes, and designing technology that removes complexity instead of adding it.
+<tr>
+<td><b>2018 – 2022</b></td>
+<td>⚙️ <b>Full-Stack Developer</b><br>C# • WPF • .NET</td>
+</tr>
 
-Whether working with developers, production teams, quality specialists, or business stakeholders, I enjoy connecting technical possibilities with real operational needs.
+<tr>
+<td><b>2022 – 2025</b></td>
+<td>🚀 <b>Senior Software Engineer</b><br>Angular • NestJS • Pharma Digitalization</td>
+</tr>
 
-My engineering approach emphasizes:
-
-- Clean architecture
-- Practical AI integration
-- User-centered design
-- Maintainable code
-- Continuous improvement
-- Long-term scalability
+<tr>
+<td><b>2025 – Today</b></td>
+<td>🧠 <b>AI Solutions Builder</b><br>Enterprise AI • Digital Transformation • Project Intelligence</td>
+</tr>
+</table>
 
 ---
+---
+## 🛠️ How I Work
 
-## Current Focus
+<table>
+<tr>
+<td width="33%">
 
-I am currently exploring the next generation of AI-powered software for regulated industries.
+### 🔍 Understand
 
-Areas of interest include:
+I start by understanding the real workflow, users, constraints, and business context before designing a solution.
+
+</td>
+
+<td width="33%">
+
+### 🧩 Design
+
+I translate complex operational processes into clear, maintainable, and user-centered software structures.
+
+</td>
+
+<td width="33%">
+
+### 🚀 Deliver
+
+I focus on practical implementation, clean architecture, continuous improvement, and long-term scalability.
+
+</td>
+</tr>
+</table>
+
+---
+---
+## 🎯 Current Focus
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Building
 
 - Enterprise AI Copilots
-- Large Language Models
-- Manufacturing Intelligence
+- AI-powered Business Applications
+- Intelligent Workflow Automation
+- Digital Transformation Platforms
+- Project Intelligence Systems
+
+</td>
+
+<td width="50%">
+
+### 🔬 Exploring
+
+- Large Language Models (LLMs)
+- AI for Manufacturing
 - Pharmaceutical Digitalization
-- AI-assisted Decision Support
-- Digital Quality Management
-- Workflow Automation
-- Human-centered AI
+- Decision Support Systems
+- Human-Centered AI Design
+
+</td>
+
+</tr>
+</table>
+
+---
+---
+## 💡 Engineering Philosophy
+
+> *"Technology creates value only when it solves real business problems."*
+
+I believe software should simplify complexity, empower people, and create measurable business value.
+
+Rather than building technology for its own sake, I focus on creating intelligent, maintainable, and scalable solutions that improve real operational workflows.
+
+My engineering principles:
+
+- ✅ Business First
+- ✅ User-Centered Design
+- ✅ Clean Architecture
+- ✅ Practical AI Integration
+- ✅ Long-Term Maintainability
+- ✅ Continuous Improvement
+
+---
+---
+## 🤝 Let's Connect
+
+<p align="center">
+
+💼 Building AI-powered software for real-world industries
+
+🚀 Enterprise Applications • AI • Digital Transformation • Pharma Tech
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/mahbejam">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## Engineering Philosophy
-
-Technology creates value only when it solves real problems.
-
-My goal is to build software that makes complex work easier, helps professionals make better decisions, and supports digital transformation in industries where reliability, quality, and usability truly matter.
-
-I believe Artificial Intelligence should empower people — not replace them.
-
----
-
-## Connect
-
-GitHub: @mahbejam
-
----
-
-⭐ Thank you for visiting my profile.  
-If one of my projects inspires you or helps you, a star is always appreciated.
+<p align="center">
+<i>Thanks for visiting my profile.</i><br>
+<i>Let's build software that makes a difference.</i> ✨
+</p>
